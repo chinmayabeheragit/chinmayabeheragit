@@ -1,5 +1,5 @@
 
-[![MasterHead]([https://camo.githubusercontent.com/3997f3b27a68e19c31e2d1c378d77303735faa42e7d18a8018f7510d66aaa83e/68747470733a2f2f7777772e77696e677374656368736f6c7574696f6e732e636f6d2f77702d636f6e74656e742f75706c6f6164732f323032322f30332f66756c6c2d737461636b2d646576656c6f706d656e742e676966](https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif))]
+[![MasterHead](https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif)]
 <h1 align="center">Hi 👋, I'm Chinmaya Behera</h1>
 <h3 align="center">Hello, I'm Chinmaya, a passionate Full Stack Developer hailing from the vibrant landscapes of India. In the realm of code, I'm on a journey to weave digital wonders that reflect the rich tapestry of my experiences. From the bustling streets of Mumbai to the serene landscapes of the Himalayas, every line of code echoes the unique rhythm of my journey. Join me on this tech odyssey as we explore and innovate, turning ideas into reality, one line of code at a time.</h3>
 <img align="right" alt="cosing" width="400" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif">
