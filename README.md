@@ -1,4 +1,8 @@
 <div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="100" />
+</div>
+
+<div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A9FEF7&center=true&vCenter=true&width=940&lines=Hey+there!+I'm+Chinmaya+Behera+👋;Full+Stack+Developer+%7C+MERN+%7C+AWS+%7C+DevOps;Building+Scalable+%26+Performant+Applications" alt="Typing SVG" />
 </div>
 
