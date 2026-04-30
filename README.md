@@ -1,6 +1,6 @@
 
 <div align="center">
-  <img src="[[https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif](https://camo.githubusercontent.com/78922651aba18e8f616b4201758c38de758a605834745e36db62458582240808/68747470733a2f2f69696c692e696f2f3376646d5278312e676966)](https://giffiles.alphacoders.com/215/215911.gif)" width="100" />
+  <img src="./215911.gif" width="900"/>
 </div>
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A9FEF7&center=true&vCenter=true&width=940&lines=Hey+there!+I'm+Chinmaya+Behera+👋;Full+Stack+Developer+%7C+MERN+%7C+AWS+%7C+DevOps;Building+Scalable+%26+Performant+Applications" alt="Typing SVG" />
