@@ -1,6 +1,6 @@
 
 <div align="center">
-  <img src="./215911.gif" width="900"/>
+  <img src="https://raw.githubusercontent.com/chinmayabeheragit/chinmayabeheragit/main/215911.gif" width="900"/>
 </div>
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A9FEF7&center=true&vCenter=true&width=940&lines=Hey+there!+I'm+Chinmaya+Behera+👋;Full+Stack+Developer+%7C+MERN+%7C+AWS+%7C+DevOps;Building+Scalable+%26+Performant+Applications" alt="Typing SVG" />
