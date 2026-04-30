@@ -1,3 +1,26 @@
+Readme · MD
+Copy
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="100" />
+</div>
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A9FEF7&center=true&vCenter=true&width=940&lines=Hey+there!+I'm+Chinmaya+Behera+👋;Full+Stack+Developer+%7C+MERN+%7C+AWS+%7C+DevOps;Building+Scalable+%26+Performant+Applications" alt="Typing SVG" />
+</div>
+<br/>
+<div align="center">
+  <a href="https://chinmayas-portfolio.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/chinmaya-behera-848115198/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://leetcode.com/u/stark-07/" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=chinmayabeheragit&label=Profile+Views&color=0e75b6&style=for-the-badge" />
+</div>
+<br/>
 # 💫 About Me:
 I'm Chinmaya Behera, a backend-first developer based in Bengaluru, India with 2–4 years of hands-on experience building and shipping real-world applications. I currently work at @deliverycentric and have worked across multiple projects in different domains.<br><br>My core is backend — scalable APIs, microservices, and server architecture using Node.js, Express, NestJS, FastAPI, and Django. That said, I can handle the full picture when needed: frontend with React, Next.js, and TypeScript, and deployments with AWS, Docker, Kubernetes, Jenkins, and Nginx.<br><br>What makes me different right now is the AI side. I work with LLMs like ChatGPT, Claude, and Gemini, build AI Agents with LangChain, and have experience in Machine Learning with TensorFlow and sklearn, plus Computer Vision. I'm currently exploring RAG pipelines, agentic workflows, and multimodal models because I genuinely believe backend systems are going AI-native and I want to stay ahead of that.<br><br>For testing I use Jest, Cypress, Mocha, Chai, and Postman. I care about writing code that's clean, well-tested, and actually maintainable in production.<br><br>Outside of work I'm usually solving DSA problems on LeetCode or reading up on whatever's trending in AI that week. I like staying sharp and I pick up new tools fast.
 
