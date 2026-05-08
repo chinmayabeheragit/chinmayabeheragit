@@ -21,6 +21,8 @@ Hey, I'm Chinmaya Behera — a Full Stack Developer with 2.7 years of profession
 My core strength is backend development with Node.js, and I'm equally comfortable building production-ready frontends with React.js and Next.js. The MERN stack is my home ground — I've used it across multiple companies and 70+ personal projects ranging from small utilities to large-scale systems.
 I don't just build features — I care deeply about code quality, scalability, performance optimization, and maintainability. I've diagnosed and fixed real bottlenecks in APIs, databases, and frontend rendering in live production systems.
 
+
+
 🔧 Tech Stack
 💻 Languages
 JavaScript · TypeScript · C++ · Python (learning)
