@@ -17,7 +17,46 @@
 </div>
 <br/>
 # 💫 About Me:
-I'm Chinmaya Behera, a backend-first developer based in Bengaluru, India with 2–4 years of hands-on experience building and shipping real-world applications. I currently work at @deliverycentric and have worked across multiple projects in different domains.<br><br>My core is backend — scalable APIs, microservices, and server architecture using Node.js, Express, NestJS, FastAPI, and Django. That said, I can handle the full picture when needed: frontend with React, Next.js, and TypeScript, and deployments with AWS, Docker, Kubernetes, Jenkins, and Nginx.<br><br>What makes me different right now is the AI side. I work with LLMs like ChatGPT, Claude, and Gemini, build AI Agents with LangChain, and have experience in Machine Learning with TensorFlow and sklearn, plus Computer Vision. I'm currently exploring RAG pipelines, agentic workflows, and multimodal models because I genuinely believe backend systems are going AI-native and I want to stay ahead of that.<br><br>For testing I use Jest, Cypress, Mocha, Chai, and Postman. I care about writing code that's clean, well-tested, and actually maintainable in production.<br><br>Outside of work I'm usually solving DSA problems on LeetCode or reading up on whatever's trending in AI that week. I like staying sharp and I pick up new tools fast.
+Hey, I'm Chinmaya Behera — a Full Stack Developer with 2.7 years of professional experience, based in Bengaluru 🇮🇳.
+My core strength is backend development with Node.js, and I'm equally comfortable building production-ready frontends with React.js and Next.js. The MERN stack is my home ground — I've used it across multiple companies and 70+ personal projects ranging from small utilities to large-scale systems.
+I don't just build features — I care deeply about code quality, scalability, performance optimization, and maintainability. I've diagnosed and fixed real bottlenecks in APIs, databases, and frontend rendering in live production systems.
+
+🔧 Tech Stack
+💻 Languages
+JavaScript · TypeScript · C++ · Python (learning)
+🖥️ Frontend
+React.js · Next.js · Tailwind CSS · Redux · Material-UI · HTML · CSS
+⚙️ Backend
+Node.js · Express.js · REST APIs · GraphQL · JWT · WebSockets
+🗄️ Databases
+MongoDB · PostgreSQL · Neon DB · Supabase
+🤖 AI & LLM
+LangChain · TensorFlow · OpenAI API · Claude API · Gemini API
+☁️ Cloud & Infrastructure
+AWS · Nginx · Docker · Kubernetes · MobaXterm (manual server deployment)
+🔄 CI/CD & DevOps
+Jenkins · GitHub Actions · CI/CD Pipelines
+🧪 Testing
+Jest · Mocha · Cypress
+🛠️ Tools
+Git · GitHub · Postman · Jira · Confluence · Bitbucket · Trello (Atlassian Suite)
+
+📈 What Defines My Work
+
+🏢 Multi-company experience — worked across different teams, codebases, and engineering cultures, picking up real-world standards along the way
+🚀 70+ projects shipped — from quick tools to full-scale production applications
+🤖 AI SaaS builder — developed AI-powered applications using OpenAI, Claude, and Gemini APIs with LangChain integration
+⚡ Performance obsessed — actively optimized APIs, database queries, and frontend rendering in live systems
+🧪 Testing culture — write tests for both frontend and backend as a standard practice, not an afterthought
+🖥️ Hands-on with servers — manually deployed and managed production servers on AWS via SSH, not just dashboard clicks
+
+
+🚀 Currently
+
+🔍 Deepening expertise in System Design and DSA (C++ & JavaScript)
+🧠 Expanding AI/LLM integration skills in product development
+🐍 Actively learning Python for AI/ML workflows
+📦 Building in public — check out my pinned repos 👇
 
 
 ## 🌐 Socials:
