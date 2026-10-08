@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="490" height="294" viewBox="0 0 490 294" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="14">
+<style>
+.l{animation:in .5s ease-out both}
+@keyframes in{from{opacity:0;transform:translateX(-10px)}to{opacity:1;transform:none}}
+.k{fill:#f0883e;font-weight:bold}
+</style>
+<rect width="490" height="294" rx="12" fill="#0d1117" stroke="#30363d"/>
+<circle cx="22" cy="20" r="6" fill="#ff5f56"/><circle cx="42" cy="20" r="6" fill="#ffbd2e"/><circle cx="62" cy="20" r="6" fill="#27c93f"/>
+<text x="245" y="25" fill="#8b949e" font-size="12" text-anchor="middle">neofetch</text>
+<line x1="0" y1="38" x2="490" y2="38" stroke="#30363d"/>
+<g class="l" style="animation-delay:300ms"><text x="24" y="64" fill="#58a6ff" font-weight="bold">chinmaya@github</text></g>
+<g class="l" style="animation-delay:520ms"><text x="24" y="98"><tspan class="k">Role</tspan><tspan fill="#8b949e">: </tspan><tspan fill="#79c0ff">Backend Developer</tspan></text></g>
+<g class="l" style="animation-delay:740ms"><text x="24" y="124"><tspan class="k">Stack</tspan><tspan fill="#8b949e">: </tspan><tspan fill="#7ee787">Node.js · NestJS · TypeScript</tspan></text></g>
+<g class="l" style="animation-delay:960ms"><text x="24" y="150"><tspan class="k">Data</tspan><tspan fill="#8b949e">: </tspan><tspan fill="#7ee787">PostgreSQL · Redis</tspan></text></g>
+<g class="l" style="animation-delay:1180ms"><text x="24" y="176"><tspan class="k">Cloud</tspan><tspan fill="#8b949e">: </tspan><tspan fill="#ffa657">AWS · DevOps (growing)</tspan></text></g>
+<g class="l" style="animation-delay:1400ms"><text x="24" y="202"><tspan class="k">Built</tspan><tspan fill="#8b949e">: </tspan><tspan fill="#d2a8ff">E-commerce · LMS · HRMS · Trading</tspan></text></g>
+<g class="l" style="animation-delay:1620ms"><text x="24" y="228"><tspan class="k">Focus</tspan><tspan fill="#8b949e">: </tspan><tspan fill="#79c0ff">Backend · DevOps · AI/ML</tspan></text></g>
+<g class="l" style="animation-delay:1840ms"><text x="24" y="254"><tspan class="k">Where</tspan><tspan fill="#8b949e">: </tspan><tspan fill="#c9d1d9">Bengaluru, India</tspan></text></g>
+</svg>
