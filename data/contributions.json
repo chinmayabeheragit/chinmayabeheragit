@@ -1844,11 +1844,11 @@
   {
    "date": "2026-10-08",
    "level": 1,
-   "count": 2
+   "count": 1
   }
  ],
  "stats": {
-  "total": 118,
+  "total": 117,
   "longest_streak": 3,
   "current_streak": 3,
   "best_day": {
