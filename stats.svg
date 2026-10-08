@@ -1,0 +1,48 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="430" height="452" viewBox="0 0 430 452" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace">
+<style>
+.c{animation:in .6s ease-out both}
+@keyframes in{from{opacity:0;transform:translateY(8px)}to{opacity:1;transform:none}}
+.b{transform-box:fill-box;transform-origin:bottom;animation:grow .8s cubic-bezier(.2,.8,.2,1) both}
+@keyframes grow{from{transform:scaleY(0)}to{transform:scaleY(1)}}
+.lab{fill:#8b949e;font-size:11px}.big{font-size:30px;font-weight:bold}.sub{fill:#6e7681;font-size:10px}.unit{fill:#8b949e;font-size:13px;font-weight:normal}
+</style>
+<rect width="430" height="452" rx="10" fill="#0d1117" stroke="#30363d"/>
+<circle cx="14" cy="14" r="3.5" fill="#ff5f56"/><circle cx="26" cy="14" r="3.5" fill="#ffbd2e"/><circle cx="38" cy="14" r="3.5" fill="#27c93f"/>
+<text x="215" y="17" fill="#6e7681" font-size="9" text-anchor="middle">chinmaya@github: ~$ ./stats.sh</text>
+<line x1="0" y1="28" x2="430" y2="28" stroke="#21262d"/>
+<g class="c" style="animation-delay:250ms"><rect x="14" y="40" width="191" height="88" rx="6" fill="#0d1117" stroke="#30363d"/><text x="26" y="62" class="lab">$ current streak</text><text x="26" y="96" class="big" fill="#3fb950">3<tspan class="unit" dx="6">days</tspan></text><text x="26" y="116" class="sub">Oct 6 – Oct 8</text></g>
+<g class="c" style="animation-delay:390ms"><rect x="215" y="40" width="191" height="88" rx="6" fill="#0d1117" stroke="#30363d"/><text x="227" y="62" class="lab">$ longest streak</text><text x="227" y="96" class="big" fill="#3fb950">3<tspan class="unit" dx="6">days</tspan></text><text x="227" y="116" class="sub">Feb 5 – Feb 7</text></g>
+<g class="c" style="animation-delay:530ms"><rect x="14" y="138" width="191" height="88" rx="6" fill="#0d1117" stroke="#30363d"/><text x="26" y="160" class="lab">$ contributions</text><text x="26" y="194" class="big" fill="#e6edf3">121</text><text x="26" y="214" class="sub">in the last year</text></g>
+<g class="c" style="animation-delay:670ms"><rect x="215" y="138" width="191" height="88" rx="6" fill="#0d1117" stroke="#30363d"/><text x="227" y="160" class="lab">$ active days</text><text x="227" y="194" class="big" fill="#e6edf3">59<tspan class="unit" dx="6">/ 369</tspan></text><text x="227" y="214" class="sub">16% of the last year</text></g>
+<g class="c" style="animation-delay:810ms"><rect x="14" y="236" width="191" height="88" rx="6" fill="#0d1117" stroke="#30363d"/><text x="26" y="258" class="lab">$ best day</text><text x="26" y="292" class="big" fill="#e6edf3">11</text><text x="26" y="312" class="sub">Apr 30</text></g>
+<g class="c" style="animation-delay:950ms"><rect x="215" y="236" width="191" height="88" rx="6" fill="#0d1117" stroke="#30363d"/><text x="227" y="258" class="lab">$ avg / active day</text><text x="227" y="292" class="big" fill="#e6edf3">2.1</text><text x="227" y="312" class="sub">contributions</text></g>
+<rect x="14" y="334" width="402" height="104" rx="6" fill="#0d1117" stroke="#30363d"/>
+<text x="26" y="356" class="lab">$ contributions / month</text>
+<rect class="b" style="animation-delay:900ms" x="35.4" y="414.0" width="17.6" height="2.0" rx="1.5" fill="#26c452"/>
+<text x="44.2" y="430" fill="#6e7681" font-size="9" text-anchor="middle">O</text>
+<rect class="b" style="animation-delay:960ms" x="63.9" y="414.0" width="17.6" height="2.0" rx="1.5" fill="#26c452"/>
+<text x="72.7" y="430" fill="#6e7681" font-size="9" text-anchor="middle">N</text>
+<rect class="b" style="animation-delay:1020ms" x="92.3" y="411.9" width="17.6" height="4.1" rx="1.5" fill="#26c452"/>
+<text x="101.2" y="430" fill="#6e7681" font-size="9" text-anchor="middle">D</text>
+<rect class="b" style="animation-delay:1080ms" x="120.8" y="411.9" width="17.6" height="4.1" rx="1.5" fill="#26c452"/>
+<text x="129.6" y="430" fill="#6e7681" font-size="9" text-anchor="middle">J</text>
+<rect class="b" style="animation-delay:1140ms" x="149.3" y="392.3" width="17.6" height="23.7" rx="1.5" fill="#26c452"/>
+<text x="158.1" y="430" fill="#6e7681" font-size="9" text-anchor="middle">F</text>
+<rect class="b" style="animation-delay:1200ms" x="177.7" y="402.6" width="17.6" height="13.4" rx="1.5" fill="#26c452"/>
+<text x="186.5" y="430" fill="#6e7681" font-size="9" text-anchor="middle">M</text>
+<rect class="b" style="animation-delay:1260ms" x="206.2" y="382.0" width="17.6" height="34.0" rx="1.5" fill="#26c452"/>
+<text x="215.0" y="430" fill="#6e7681" font-size="9" text-anchor="middle">A</text>
+<text class="c" style="animation-delay:1760ms" x="215.0" y="376.0" fill="#e6edf3" font-size="9" font-weight="bold" text-anchor="middle">33</text>
+<rect class="b" style="animation-delay:1320ms" x="234.6" y="401.6" width="17.6" height="14.4" rx="1.5" fill="#26c452"/>
+<text x="243.5" y="430" fill="#6e7681" font-size="9" text-anchor="middle">M</text>
+<rect class="b" style="animation-delay:1380ms" x="263.1" y="414.0" width="17.6" height="2.0" rx="1.5" fill="#26c452"/>
+<text x="271.9" y="430" fill="#6e7681" font-size="9" text-anchor="middle">J</text>
+<rect class="b" style="animation-delay:1440ms" x="291.6" y="405.7" width="17.6" height="10.3" rx="1.5" fill="#26c452"/>
+<text x="300.4" y="430" fill="#6e7681" font-size="9" text-anchor="middle">J</text>
+<rect class="b" style="animation-delay:1500ms" x="320.0" y="409.8" width="17.6" height="6.2" rx="1.5" fill="#26c452"/>
+<text x="328.8" y="430" fill="#6e7681" font-size="9" text-anchor="middle">A</text>
+<rect class="b" style="animation-delay:1560ms" x="348.5" y="408.8" width="17.6" height="7.2" rx="1.5" fill="#26c452"/>
+<text x="357.3" y="430" fill="#6e7681" font-size="9" text-anchor="middle">S</text>
+<rect class="b" style="animation-delay:1620ms" x="376.9" y="408.8" width="17.6" height="7.2" rx="1.5" fill="#26c452"/>
+<text x="385.8" y="430" fill="#6e7681" font-size="9" text-anchor="middle">O</text>
+</svg>
