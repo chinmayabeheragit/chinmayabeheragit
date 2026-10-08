@@ -8,8 +8,8 @@
 <h3><code>chinmaya@github ~ $ whoami</code></h3>
 <table>
   <tr>
-    <td valign="top"><img src="./215911.gif" width="370" /></td>
-    <td valign="top"><img src="./info-card.svg" width="490" /></td>
+    <td valign="top"><img src="./ascii-portrait.svg" width="430" /></td>
+    <td valign="top"><img src="./stats.svg" width="430" /></td>
   </tr>
 </table>
 
