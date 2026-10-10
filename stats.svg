@@ -10,12 +10,12 @@
 <circle cx="14" cy="14" r="3.5" fill="#ff5f56"/><circle cx="26" cy="14" r="3.5" fill="#ffbd2e"/><circle cx="38" cy="14" r="3.5" fill="#27c93f"/>
 <text x="215" y="17" fill="#6e7681" font-size="9" text-anchor="middle">chinmaya@github: ~$ ./stats.sh</text>
 <line x1="0" y1="28" x2="430" y2="28" stroke="#21262d"/>
-<g class="c" style="animation-delay:250ms"><rect x="14" y="40" width="191" height="88" rx="6" fill="#0d1117" stroke="#30363d"/><text x="26" y="62" class="lab">$ current streak</text><text x="26" y="96" class="big" fill="#3fb950">3<tspan class="unit" dx="6">days</tspan></text><text x="26" y="116" class="sub">Oct 6 – Oct 8</text></g>
-<g class="c" style="animation-delay:390ms"><rect x="215" y="40" width="191" height="88" rx="6" fill="#0d1117" stroke="#30363d"/><text x="227" y="62" class="lab">$ longest streak</text><text x="227" y="96" class="big" fill="#3fb950">3<tspan class="unit" dx="6">days</tspan></text><text x="227" y="116" class="sub">Feb 5 – Feb 7</text></g>
-<g class="c" style="animation-delay:530ms"><rect x="14" y="138" width="191" height="88" rx="6" fill="#0d1117" stroke="#30363d"/><text x="26" y="160" class="lab">$ contributions</text><text x="26" y="194" class="big" fill="#e6edf3">128</text><text x="26" y="214" class="sub">in the last year</text></g>
-<g class="c" style="animation-delay:670ms"><rect x="215" y="138" width="191" height="88" rx="6" fill="#0d1117" stroke="#30363d"/><text x="227" y="160" class="lab">$ active days</text><text x="227" y="194" class="big" fill="#e6edf3">59<tspan class="unit" dx="6">/ 370</tspan></text><text x="227" y="214" class="sub">16% of the last year</text></g>
+<g class="c" style="animation-delay:250ms"><rect x="14" y="40" width="191" height="88" rx="6" fill="#0d1117" stroke="#30363d"/><text x="26" y="62" class="lab">$ current streak</text><text x="26" y="96" class="big" fill="#3fb950">4<tspan class="unit" dx="6">days</tspan></text><text x="26" y="116" class="sub">Oct 6 – Oct 9</text></g>
+<g class="c" style="animation-delay:390ms"><rect x="215" y="40" width="191" height="88" rx="6" fill="#0d1117" stroke="#30363d"/><text x="227" y="62" class="lab">$ longest streak</text><text x="227" y="96" class="big" fill="#3fb950">4<tspan class="unit" dx="6">days</tspan></text><text x="227" y="116" class="sub">Oct 6 – Oct 9</text></g>
+<g class="c" style="animation-delay:530ms"><rect x="14" y="138" width="191" height="88" rx="6" fill="#0d1117" stroke="#30363d"/><text x="26" y="160" class="lab">$ contributions</text><text x="26" y="194" class="big" fill="#e6edf3">129</text><text x="26" y="214" class="sub">in the last year</text></g>
+<g class="c" style="animation-delay:670ms"><rect x="215" y="138" width="191" height="88" rx="6" fill="#0d1117" stroke="#30363d"/><text x="227" y="160" class="lab">$ active days</text><text x="227" y="194" class="big" fill="#e6edf3">60<tspan class="unit" dx="6">/ 371</tspan></text><text x="227" y="214" class="sub">16% of the last year</text></g>
 <g class="c" style="animation-delay:810ms"><rect x="14" y="236" width="191" height="88" rx="6" fill="#0d1117" stroke="#30363d"/><text x="26" y="258" class="lab">$ best day</text><text x="26" y="292" class="big" fill="#e6edf3">12</text><text x="26" y="312" class="sub">Oct 8</text></g>
-<g class="c" style="animation-delay:950ms"><rect x="215" y="236" width="191" height="88" rx="6" fill="#0d1117" stroke="#30363d"/><text x="227" y="258" class="lab">$ avg / active day</text><text x="227" y="292" class="big" fill="#e6edf3">2.2</text><text x="227" y="312" class="sub">contributions</text></g>
+<g class="c" style="animation-delay:950ms"><rect x="215" y="236" width="191" height="88" rx="6" fill="#0d1117" stroke="#30363d"/><text x="227" y="258" class="lab">$ avg / active day</text><text x="227" y="292" class="big" fill="#e6edf3">2.1</text><text x="227" y="312" class="sub">contributions</text></g>
 <rect x="14" y="334" width="402" height="104" rx="6" fill="#0d1117" stroke="#30363d"/>
 <text x="26" y="356" class="lab">$ contributions / month</text>
 <rect class="b" style="animation-delay:900ms" x="35.4" y="414.0" width="17.6" height="2.0" rx="1.5" fill="#26c452"/>
@@ -43,6 +43,6 @@
 <text x="328.8" y="430" fill="#6e7681" font-size="9" text-anchor="middle">A</text>
 <rect class="b" style="animation-delay:1560ms" x="348.5" y="408.8" width="17.6" height="7.2" rx="1.5" fill="#26c452"/>
 <text x="357.3" y="430" fill="#6e7681" font-size="9" text-anchor="middle">S</text>
-<rect class="b" style="animation-delay:1620ms" x="376.9" y="401.6" width="17.6" height="14.4" rx="1.5" fill="#26c452"/>
+<rect class="b" style="animation-delay:1620ms" x="376.9" y="400.5" width="17.6" height="15.5" rx="1.5" fill="#26c452"/>
 <text x="385.8" y="430" fill="#6e7681" font-size="9" text-anchor="middle">O</text>
 </svg>
