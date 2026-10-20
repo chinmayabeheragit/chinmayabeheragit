@@ -1828,14 +1828,19 @@
   },
   {
    "date": "2026-10-19",
-   "level": 0,
-   "count": 0
+   "level": 1,
+   "count": 1
+  },
+  {
+   "date": "2026-10-20",
+   "level": 1,
+   "count": 1
   }
  ],
  "stats": {
-  "total": 142,
-  "longest_streak": 13,
-  "current_streak": 13,
+  "total": 144,
+  "longest_streak": 15,
+  "current_streak": 15,
   "best_day": {
    "date": "2026-10-08",
    "level": 4,
