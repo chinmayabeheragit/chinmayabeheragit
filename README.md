@@ -8,7 +8,7 @@
 <h3><code>chinmaya@github ~ $ whoami</code></h3>
 <table>
   <tr>
-    <td valign="top"><img src="./ascii-portrait.svg" width="430" /></td>
+    <td valign="top"><img src="./ascii-donut.svg" width="430" /></td>
     <td valign="top"><img src="./stats.svg" width="430" /></td>
   </tr>
 </table>
