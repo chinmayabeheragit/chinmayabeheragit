@@ -2,41 +2,6 @@
  "user": "chinmayabeheragit",
  "days": [
   {
-   "date": "2025-11-02",
-   "level": 0,
-   "count": 0
-  },
-  {
-   "date": "2025-11-03",
-   "level": 0,
-   "count": 0
-  },
-  {
-   "date": "2025-11-04",
-   "level": 0,
-   "count": 0
-  },
-  {
-   "date": "2025-11-05",
-   "level": 0,
-   "count": 0
-  },
-  {
-   "date": "2025-11-06",
-   "level": 0,
-   "count": 0
-  },
-  {
-   "date": "2025-11-07",
-   "level": 0,
-   "count": 0
-  },
-  {
-   "date": "2025-11-08",
-   "level": 0,
-   "count": 0
-  },
-  {
    "date": "2025-11-09",
    "level": 0,
    "count": 0
@@ -1854,13 +1819,18 @@
   {
    "date": "2026-11-07",
    "level": 1,
-   "count": 1
+   "count": 3
+  },
+  {
+   "date": "2026-11-08",
+   "level": 3,
+   "count": 8
   }
  ],
  "stats": {
-  "total": 173,
-  "longest_streak": 33,
-  "current_streak": 33,
+  "total": 183,
+  "longest_streak": 34,
+  "current_streak": 34,
   "best_day": {
    "date": "2026-10-08",
    "level": 4,
